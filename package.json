@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JohnsonWebWare/blogApp/issues"
   },
-  "homepage": "https://github.com/JohnsonWebWare/blogApp#readme"
+  "homepage": "https://github.com/JohnsonWebWare/blogApp#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
