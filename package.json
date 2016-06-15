@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/JohnsonWebWare/blogApp#readme",
   "dependencies": {
+    "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "passport": "^0.3.2"
   }
