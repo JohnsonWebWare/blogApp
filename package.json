@@ -1,0 +1,22 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "Blog application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonWebWare/blogApp.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "ajohn2550",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JohnsonWebWare/blogApp/issues"
+  },
+  "homepage": "https://github.com/JohnsonWebWare/blogApp#readme"
+}
