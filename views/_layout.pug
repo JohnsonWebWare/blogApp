@@ -1,0 +1,10 @@
+doctype html
+html
+  include ./inc/head.pug
+  body
+    include ./inc/header.pug
+    #title
+      h1.title= blogData.title
+      h2.subTitle= blogData.subTitle
+    block content
+    include ./inc/footer.pug
